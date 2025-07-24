@@ -21,38 +21,32 @@ This project uses modern web technologies and libraries:
 
 ## 🖼 Mockups
 
-Below are sample mockup screenshots found in `img\mockup\`:
+All screenshots are located in `img/mockup/`.
 
-### Authentication Pages
-- ![Login Page](img/mockup/loginpage.png)
-- ![Signup Page](img/mockup/signuppage.png)
+### Authentication Pages  
+<img src="img/mockup/loginpage.png" width="48%"> <img src="img/mockup/signuppage.png" width="48%">
 
-### Homepage
-- ![Homepage](img/mockup/homepage.png)
-- ![Homepage2](img/mockup/homepage2.png)
+### Homepage  
+<img src="img/mockup/homepage.png" width="48%"> <img src="img/mockup/homepage2.png" width="48%">
 
-### Manga Page
-- ![Manga Page](img/mockup/mangapage.png)
-- ![Manga Page 2](img/mockup/mangapage2.png)
+### Manga Page  
+<img src="img/mockup/mangapage.png" width="48%"> <img src="img/mockup/mangapage2.png" width="48%">
 
-### Bookmark Page
-- ![Bookmark Page](img/mockup/bookmarkpage.png)
-- ![Bookmark Page 2](img/mockup/bookmarkpage2.png)
+### Bookmark Page  
+<img src="img/mockup/bookmarkpage.png" width="48%"> <img src="img/mockup/bookmarkpage2.png" width="48%">
 
-### Contact Page
-- ![Contact Page](img/mockup/contactpage.png)
-- ![Contact Page 2](img/mockup/contactpage2.png)
+### Contact Page  
+<img src="img/mockup/contactpage.png" width="48%"> <img src="img/mockup/contactpage2.png" width="48%">
 
-### About Page
-- ![About Page](img/mockup/aboutpage.png)
-- ![About Page 2](img/mockup/aboutpage2.png)
+### About Page  
+<img src="img/mockup/aboutpage.png" width="48%"> <img src="img/mockup/aboutpage2.png" width="48%">
 
 ---
 
 ## 🚀 Features
 
-- User-friendly UI for manga reading and exploration
-- Bookmark system
-- Responsive design
-- Contact form integration
+- User-friendly UI for manga reading and exploration  
+- Bookmark system  
+- Responsive design  
+- Contact form integration  
 - Backend data handling via MongoDB
